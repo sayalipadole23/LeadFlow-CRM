@@ -1,0 +1,5 @@
+package com.leadflow.backend.entity;
+
+public class Lead {
+
+}

@@ -1,0 +1,5 @@
+package com.leadflow.backend.repository;
+
+public interface LeadRepository {
+
+}

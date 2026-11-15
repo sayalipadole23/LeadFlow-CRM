@@ -1,0 +1,5 @@
+package com.leadflow.backend.controller;
+
+public class LeadController {
+
+}

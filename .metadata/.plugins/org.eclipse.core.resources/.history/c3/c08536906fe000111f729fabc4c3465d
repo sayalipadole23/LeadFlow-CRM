@@ -1,0 +1,5 @@
+package com.leadflow.backend.service;
+
+public class LeadService {
+
+}

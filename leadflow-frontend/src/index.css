@@ -1,0 +1,58 @@
+
+/* ==============================
+   LEADFLOW CRM - GLOBAL STYLING
+================================= */
+
+/* Remove default browser spacing */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main page styling */
+
+body {
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+    background-color: #f5f7fb;
+    color: #1e293b;
+    min-width: 320px;
+}
+
+/* Root container */
+
+#root {
+    min-height: 100vh;
+    width: 100%;
+}
+
+/* Common buttons */
+
+button {
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+}
+
+/* Common input styling */
+
+input,
+select,
+textarea {
+    font-family: inherit;
+    outline: none;
+}
+
+/* Remove default link underline */
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Smooth scrolling */
+
+html {
+    scroll-behavior: smooth;
+}

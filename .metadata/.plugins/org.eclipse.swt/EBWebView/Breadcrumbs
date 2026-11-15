@@ -1,0 +1,96 @@
+0:03:38 Tab1 PageLoad
+0:26:24 Tab1 StartNav20 #typed
+0:26:24 Tab1 FinishNav20
+0:26:24 Tab1 PageLoad
+0:32:32 Microsoft.BrowserList.AddBrowser
+0:32:32 Browser2 Insert active Tab2 at 0
+0:32:32 Tab2 StartNav21 #auto_toplevel
+0:32:32 Tab2 StartNav22 #typed
+0:32:33 Tab2 FinishNav21
+0:32:33 Tab2 PageLoad
+0:32:33 Tab2 FinishNav22
+0:32:33 Tab2 PageLoad
+0:32:36 Tab2 StartNav23 #typed
+0:32:36 Tab2 FinishNav23
+0:32:36 Tab2 PageLoad
+0:32:40 Tab2 StartNav24 #typed
+0:32:40 Tab2 FinishNav24
+0:32:41 Tab2 PageLoad
+0:32:41 Tab2 StartNav25 #typed
+0:32:41 Tab2 FinishNav25
+0:32:41 Tab2 PageLoad
+0:32:52 Tab2 StartNav26 #typed
+0:32:52 Tab2 FinishNav26
+0:32:52 Tab2 PageLoad
+0:32:53 Tab2 StartNav27 #typed
+0:32:53 Tab2 FinishNav27
+0:32:53 Tab2 PageLoad
+0:34:45 Tab2 StartNav28 #typed
+0:34:45 Tab2 FinishNav28
+0:34:45 Tab2 PageLoad
+0:46:17 Microsoft.BrowserList.AddBrowser
+0:46:17 Browser3 Insert active Tab3 at 0
+0:46:17 Tab3 StartNav29 #auto_toplevel
+0:46:17 Tab3 StartNav30 #typed
+0:46:17 Tab3 FinishNav29
+0:46:17 Tab3 PageLoad
+0:46:17 Tab3 FinishNav30
+0:46:17 Tab3 PageLoad
+0:46:17 Tab3 StartNav31 #typed
+0:46:17 Tab3 FinishNav31
+0:46:17 Tab3 PageLoad
+0:50:42 Microsoft.BrowserList.AddBrowser
+0:50:42 Browser4 Insert active Tab4 at 0
+0:50:42 Tab4 StartNav32 #auto_toplevel
+0:50:43 Tab4 StartNav33 #typed
+0:50:43 Tab4 StartNav34 #typed
+0:50:43 Tab4 FinishNav32
+0:50:43 Tab4 PageLoad
+0:50:43 Tab4 FinishNav33
+0:50:43 Tab4 PageLoad
+0:50:43 Tab4 FinishNav34
+0:50:43 Tab4 PageLoad
+0:53:14 Microsoft.BrowserList.AddBrowser
+0:53:14 Browser5 Insert active Tab5 at 0
+0:53:14 Tab5 StartNav35 #auto_toplevel
+0:53:14 Tab5 StartNav36 #typed
+0:53:14 Tab5 StartNav37 #typed
+0:53:14 Tab5 FinishNav35
+0:53:14 Tab5 PageLoad
+0:53:14 Tab5 FinishNav36
+0:53:14 Tab5 PageLoad
+0:53:14 Tab5 FinishNav37
+0:53:14 Tab5 PageLoad
+0:53:17 Tab5 StartNav38 #typed
+0:53:18 Tab5 FinishNav38
+0:53:18 Tab5 PageLoad
+0:53:18 Tab5 StartNav39 #typed
+0:53:18 Tab5 FinishNav39
+0:53:18 Tab5 PageLoad
+0:53:29 Tab5 StartNav40 #typed
+0:53:29 Tab5 FinishNav40
+0:53:29 Tab5 PageLoad
+11:47:49 Tab5 StartNav41 #typed
+11:47:49 Tab5 FinishNav41
+11:47:49 Tab5 PageLoad
+11:47:52 Tab5 StartNav42 #typed
+11:47:52 Tab5 FinishNav42
+11:47:52 Tab5 PageLoad
+11:55:42 Tab5 StartNav43 #typed
+11:55:42 Tab5 FinishNav43
+11:55:42 Tab5 PageLoad
+12:17:27 Tab5 StartNav44 #typed
+12:17:27 Tab5 FinishNav44
+12:17:27 Tab5 PageLoad
+12:26:50 Tab5 StartNav45 #typed
+12:26:51 Tab5 FinishNav45
+12:26:51 Tab5 PageLoad
+12:26:57 Tab5 StartNav46 #typed
+12:26:57 Tab5 FinishNav46
+12:26:57 Tab5 PageLoad
+12:26:59 Tab5 StartNav47 #typed
+12:26:59 Tab5 FinishNav47
+12:26:59 Tab5 PageLoad
+12:27:05 Tab5 StartNav48 #typed
+12:27:05 Tab5 FinishNav48
+12:27:05 Tab5 PageLoad
