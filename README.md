@@ -171,6 +171,24 @@ The lead records contain information such as:
 - Status
 - Created At
 
+## 📸 Application Screenshots
+
+### 1. Dashboard
+
+![LeadFlow CRM Dashboard](screenshots/dashboard.png)
+
+### 2. Add New Lead
+
+![Add Lead Form](screenshots/add-lead.png)
+
+### 3. Edit Lead
+
+![Edit Lead Form](screenshots/edit-lead.png)
+
+### 4. Search and Filter Leads
+
+![Search and Filter Leads](screenshots/search-lead.png)
+
 ## 🔄 Application Workflow
 
 1. User interacts with the React frontend.
